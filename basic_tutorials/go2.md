@@ -1,4 +1,3 @@
-To import and use functions or variables from other files in Go, you need to organize your code into packages and then import those packages where needed. Here’s a detailed guide on how to achieve this.
 
 ### Step-by-Step Guide
 
@@ -118,4 +117,3 @@ To import and use functions from other files in Go:
 3. Import the necessary packages using the import path based on the module name and directory structure.
 4. Use the functions or variables from the imported packages in your code.
 
-This structure helps maintain clean and modular code, making it easier to manage and scale your Go projects.

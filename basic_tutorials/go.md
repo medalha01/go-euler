@@ -1,4 +1,4 @@
-In Go, imports and packages are fundamental to organizing and modularizing code. Here’s an overview of how they work, along with instructions on how to run, build, and execute Go programs.
+
 
 ### Packages and Imports
 
@@ -209,4 +209,3 @@ func main() {
     ./main
     ```
 
-By following these steps, you can organize your Go code using packages, manage dependencies, and build and run your Go programs effectively.
