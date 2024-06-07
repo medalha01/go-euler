@@ -4,16 +4,6 @@ import (
 	"fmt"
 )
 
-func getFibonnaci(n int) int {
-	if n == 0 {
-		return 0
-	}
-	if n == 1 {
-		return 1
-	}
-	return getFibonnaci(n-1) + getFibonnaci(n-2)
-}
-
 func main() {
 	numbers := [2]int{0, 1}
 
